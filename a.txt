@@ -16,6 +16,6 @@ ffff
 <<<<<<< HEAD
 sa
 fkoooooo.........
-kk
+k
 op1
 op2
