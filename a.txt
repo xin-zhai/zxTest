@@ -13,9 +13,8 @@ uuu
 2
 pppp
 ffff
-<<<<<<< HEAD
 sa
 fkoooooo.........
-k
+k--------------ii
 op1
 op2
