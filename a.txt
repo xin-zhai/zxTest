@@ -13,6 +13,7 @@ uuu
 2
 pppp
 ffff
-
-
+<<<<<<< HEAD
 sa
+fkoooooo.........
+kk
